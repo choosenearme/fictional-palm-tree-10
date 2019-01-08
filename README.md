@@ -2,6 +2,6 @@
 
 ## Maintainers
 
-- Jane Doe (@janedoe Jane_Doe@condenast.com)
-- Dane Joe (@danejoe Dane_Joe@condenast.com)
+- Jane Doe (@jane_on_gh Jane_Doe@condenast.com)
+- Dane Joe (@dane_on_gh Dane_Joe@condenast.com)
 
